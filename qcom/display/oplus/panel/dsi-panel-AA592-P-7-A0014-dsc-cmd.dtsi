@@ -1190,7 +1190,7 @@
 	oplus,vreg_ctrl_flag;
 
 	/* ofp config */
-	oplus,ofp-fp-type = <0x410>;
+	oplus,ofp-fp-type = <0x98>;
 	oplus,ofp-longrui-aod-config = <0x06>;
 	oplus,ofp-need-to-wait-data-before-aod-on;
 	oplus,ofp-need-to-update-lhbm-pressed-icon-gamma-nt37707;
